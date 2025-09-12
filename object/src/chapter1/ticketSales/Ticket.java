@@ -1,4 +1,4 @@
-package ticketSales;
+package chapter1.ticketSales;
 
 public class Ticket {
     private long fee;

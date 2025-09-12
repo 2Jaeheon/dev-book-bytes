@@ -1,9 +1,8 @@
-package ticketSales;
+package chapter1.ticketSales;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import ticketSales.Ticket;
 
 public class TicketOffice {
 

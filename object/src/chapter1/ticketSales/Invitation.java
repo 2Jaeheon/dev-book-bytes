@@ -1,4 +1,4 @@
-package ticketSales;
+package chapter1.ticketSales;
 
 import java.time.LocalDateTime;
 
