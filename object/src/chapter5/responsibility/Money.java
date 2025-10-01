@@ -1,4 +1,4 @@
-package chapter5.phase1;
+package chapter5.responsibility;
 
 import java.math.BigDecimal;
 import java.util.Objects;

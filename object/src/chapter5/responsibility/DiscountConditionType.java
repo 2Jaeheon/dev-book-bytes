@@ -1,4 +1,4 @@
-package chapter5.phase1;
+package chapter5.responsibility;
 
 public enum DiscountConditionType {
     SEQUENCE,       // 순번조건

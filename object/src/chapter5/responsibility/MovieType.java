@@ -1,4 +1,4 @@
-package chapter5.phase1;
+package chapter5.responsibility;
 
 public enum MovieType {
     AMOUNT_DISCOUNT,    // 금액 할인 정책
